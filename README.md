@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @muctepx
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python. I'm 36 years old beginner.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on experienced developers to gain experience and develop
